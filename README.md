@@ -11,8 +11,9 @@ These example notebooks are intended for educational purposes only.
 # Requirements
 To use these Jupyter Notebooks in your local space, you will need Python 3.6+ and the following packages:
 
-   numpy
-   matplotlib
-   pandas
-   netcdf4
-   pynio
+
+* numpy
+* matplotlib
+* pandas
+* netcdf4
+* pynio
