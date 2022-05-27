@@ -1,6 +1,6 @@
 # intern_python_training
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NOAA-GSL/intern_python_training/HEAD?labpath=PythonTraining.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NOAA-GSL/intern_python_training/main)
 
 This repository contains a set of Python training examples for the NOAA GSL summer internship program.
 
@@ -8,8 +8,10 @@ You can run the Juypter Notebooks interactively on the cloud for free by clickin
 
 These example notebooks are intended for educational purposes only.
 
+
+
 # Requirements
-To use these Jupyter Notebooks in your local space, you will need Python 3.6+ and the following packages:
+To use many of the example Jupyter Notebooks in your local space, you will need Python 3.6+ and the following packages:
 
 
 * numpy
@@ -17,3 +19,5 @@ To use these Jupyter Notebooks in your local space, you will need Python 3.6+ an
 * pandas
 * netcdf4
 * pynio
+
+Note: JupyterNotebooksGuide.ipynb and PythonTraining.ipynb require no additional 3rd party packages.
