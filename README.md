@@ -1,6 +1,6 @@
 # intern_python_training
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NOAA-GSL/intern_python_training/blob/main/PythonEnvironment.pdf/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NOAA-GSL/intern_python_training/main)
 
 This repository contains a set of Python training examples for the NOAA GSL summer internship program.
 
