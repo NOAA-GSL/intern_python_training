@@ -1,0 +1,5 @@
+name: intro_env
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
